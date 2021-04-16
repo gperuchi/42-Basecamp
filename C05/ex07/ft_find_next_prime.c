@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/13 15:58:12 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/13 20:01:18 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:55:16 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 int		ft_is_prime2(int nb)
 {

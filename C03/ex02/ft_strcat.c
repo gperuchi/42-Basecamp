@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/06 23:04:18 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/07 18:58:00 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:52:54 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 char	*ft_strcat(char *dest, char *src)
 {

@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/03 21:36:02 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/04 13:24:24 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:48:11 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 void	ft_sort_int_tab(int *tab, int size)
 {

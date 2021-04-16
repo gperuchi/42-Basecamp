@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/03 14:55:21 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/03 15:03:30 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:47:38 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 void	ft_div_mod(int a, int b, int *div, int *mod)
 {

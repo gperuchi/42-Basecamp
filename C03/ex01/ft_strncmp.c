@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/06 22:57:49 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/08 23:20:50 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:52:46 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 int		ft_strncmp(char *s1, char *s2, unsigned int n)
 {

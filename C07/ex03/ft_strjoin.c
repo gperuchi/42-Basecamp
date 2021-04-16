@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/14 21:57:36 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/15 00:13:09 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:56:34 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//SIGABORT
 
 #include <stdlib.h>
 

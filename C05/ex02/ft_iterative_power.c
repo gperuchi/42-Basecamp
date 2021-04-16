@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/13 14:17:25 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/13 14:26:53 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:54:44 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 int		ft_iterative_power(int nb, int power)
 {

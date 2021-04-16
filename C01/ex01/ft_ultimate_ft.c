@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/03 14:09:21 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/03 16:05:03 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:47:24 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 void	ft_ultimate_ft(int *********nbr)
 {

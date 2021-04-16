@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/03 14:48:35 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/03 14:54:35 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:47:32 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 void	ft_swap(int *a, int *b)
 {

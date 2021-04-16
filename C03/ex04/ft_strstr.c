@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/07 19:41:38 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/08 18:51:48 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:53:08 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 char	*ft_strstr(char *str, char *to_find)
 {

@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/13 14:40:23 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/13 16:32:27 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:54:56 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 int		ft_fibonacci(int index)
 {

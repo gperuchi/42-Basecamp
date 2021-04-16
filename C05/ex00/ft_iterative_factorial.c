@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/13 13:30:25 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/13 14:15:10 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:54:31 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 int		ft_iterative_factorial(int nb)
 {

@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/06 22:37:07 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/08 23:28:03 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:52:40 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 int		ft_strcmp(char *s1, char *s2)
 {

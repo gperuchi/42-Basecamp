@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/03 15:45:11 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/03 18:10:43 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:47:59 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 int		ft_strlen(char *str)
 {

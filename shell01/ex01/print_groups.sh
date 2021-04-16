@@ -1,4 +1,4 @@
-#!/bin/sh
+//OK
 
 #!/bin/sh
 

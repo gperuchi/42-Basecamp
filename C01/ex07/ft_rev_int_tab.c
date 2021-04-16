@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/03 18:11:54 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/03 21:35:25 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:48:04 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 void	ft_rev_int_tab(int *tab, int size)
 {

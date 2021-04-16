@@ -6,9 +6,11 @@
 /*   By: gperuchi <gperuchi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/13 14:27:55 by gperuchi          #+#    #+#             */
-/*   Updated: 2021/04/13 14:39:10 by gperuchi         ###   ########.fr       */
+/*   Updated: 2021/04/16 15:54:50 by gperuchi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+//OK
 
 int		ft_recursive_power(int nb, int power)
 {
